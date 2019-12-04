@@ -1,0 +1,13 @@
+/node_modules/
+/dist/
+/.git/
+/app/css/
+/.idea/
+/**/*.psd
+/**/Thumbs.db
+/**/*.DS_Store
+app/icons/
+app/img/
+app/libs/
+app/my_components/
+app/sprites/
