@@ -5,9 +5,12 @@
 `npm i`
 
    -----------------------------------------------------
+<h4>Подключение Jquery</h4>  
+    
+   `bower install Jquery `
  <h4>Подключение Bootstrap 4</h4>  
  
-` bower install bootstrap#v4.0.0-alpha.6`
+` bower install bootstrap#v4.3.1`
 
 <h4>Подключение Jquery Validator</h4>  
 
@@ -24,3 +27,4 @@
      display: inline-block;
      @include sprite($close);
    }`
+   
