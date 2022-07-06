@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "font-awesome": "^4.7.0",
-    "jquery-validation": "^1.17.0"
+    "jquery-validation": "^1.19.5"
   }
 }
