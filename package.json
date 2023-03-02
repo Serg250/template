@@ -25,7 +25,7 @@
     "gulp-uglify": "^3.0.0",
     "gulp-uglify-es": "^2.0.0",
     "gulp-util": "^3.0.8",
-    "gulp.spritesmith": "^6.8.0",
+    "gulp.spritesmith": "^6.13.0",
     "imagemin-pngquant": "^5.0.1",
     "vinyl-ftp": "^0.6.0"
   },
